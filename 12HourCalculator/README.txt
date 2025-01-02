@@ -1,5 +1,1 @@
-/*This calculator was made over the course of 12 hours from 8:30 AM to 8:30 PM. Is it buggy? a bit, yeah. does it crash if you input the wrong things? yes. but the purpose of this
-calculator was to be a challenge for myself. for being done in 12 hours, I think I did pretty good.
-
-
-*/
+This calculator was made over the course of 12 hours from 8:30 AM to 8:30 PM. Is it buggy? a bit, yeah. does it crash if you input the wrong things? yes. but the purpose of this calculator was to be a challenge for myself. for being done in 12 hours, I think I did pretty good.
