@@ -1,0 +1,1 @@
+This program was one of the first initial personal projects I did when I was learning the basics of C++. It taught me the fundamentals of OOP and for that it is kind of important, all things considered.
